@@ -52,10 +52,10 @@ module.exports = {
     AUTO_REACT: process.env.AUTO_REACT || "true",
     HEART_REACT: process.env.HEART_REACT || "true",
     OWNER_NUMBER: process.env.OWNER_NUMBER || "256784391777",
-    OWNER_NAME: process.env.OWNER_NAME || "➺ѕเℓεɳƭ_ℓσѵε૨࿐",
+    OWNER_NAME: process.env.OWNER_NAME || "Robert",
     READ_CMD: process.env.READ_CMD || "true",
     BOT_NAME: process.env.BOT_NAME || "➺DARK-SILENCE-MD",
-    STATUS_REPLY: process.env.STATUS_REPLY || "🤔🤭✍️",
+    STATUS_REPLY: process.env.STATUS_REPLY || "🤭",
     STATUS_REACT: process.env.STATUS_REACT || "true",
     ANTI_VV: process.env.ANTI_VV || "true",// true for anti once view 
     ANTI_DEL_PATH: process.env.ANTI_DEL_PATH || "same", // change it to 'log' if you want to resend deleted message in ib chat 
